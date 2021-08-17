@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppTelaSplash</string>
+    <string name="v_1_0">V 1.0</string>
+    <string name="logo">logo</string>
+    <string name="splash">Splash</string>
+    <string name="sair">Sair</string>
+    <string name="aplicativo">Aplicativo</string>
+</resources>
